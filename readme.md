@@ -11,7 +11,7 @@
 
   <hr>
   
-  <strong>💻 Graduando em Ciências da Computação e desenvolvimento fullStack📚</strong>
+  <strong>💻 Graduando em Ciências da Computação <br> E desenvolvimento fullStack📚</strong>
   <br><br>
   <b> WELCOME TO MY BEDROOM --> </b>
  
