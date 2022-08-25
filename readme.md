@@ -17,7 +17,7 @@
  
   <hr>
   
-  <img height = "100px" src = "https://user-images.githubusercontent.com/92947069/183309444-40054815-7603-4409-b613-603095a0e7d2.gif" >
+  
   
   
 <div>
@@ -35,7 +35,7 @@
 </div>
 
 <br><br>
-
+<img height = "100px" src = "https://user-images.githubusercontent.com/92947069/183309444-40054815-7603-4409-b613-603095a0e7d2.gif" >
 <div align="center">
   <a href="https://github.com/douglasgalvao">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=douglasgalvao&show_icons=true&theme=tokyonight"/> 
