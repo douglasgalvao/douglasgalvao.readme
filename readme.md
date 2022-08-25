@@ -10,7 +10,10 @@
   <img height = "100px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
 
   <hr>
-  💻 Graduando em Ciências da Computação e desenvolvimento fullStack📚
+  
+  <strong>💻 Graduando em Ciências da Computação e desenvolvimento fullStack📚</strong>
+  <br><br>
+  <b> WELCOME TO MY BEDROOM --> </b>
  
   <hr>
   
