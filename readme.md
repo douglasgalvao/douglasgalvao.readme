@@ -9,7 +9,7 @@
 
   <hr>
   
-  <strong>💻 Graduando em Ciências da Computação <br> E desenvolvimento fullStack 📚</strong>
+  <strong>💻 Graduando em Ciências da Computação <br> Desenvolvedor Backend <br> Pedreiro e "Arquiteto" de software. 📚</strong>
   <br><br>
  
   <hr>
