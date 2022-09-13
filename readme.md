@@ -19,7 +19,7 @@
   
 <div>
   <img height = "50px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg"/>
-  <img height = "50px" src="https://img1.gratispng.com/20180713/ovr/kisspng-spring-framework-software-framework-modelview-pepper-robot-5b48c128c97e08.1041276815314946968253.jpg"
+  <img height = "50px" src="https://images.ctfassets.net/23aumh6u8s0i/4JFn93iA5DZgomgcIPJOPx/700a59ae9668acf22df959dcf45b409a/spring"
   <img  height = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height = "60px "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /
