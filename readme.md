@@ -10,7 +10,7 @@
   <hr>
   
   <strong>💻 Graduando em Ciências da Computação <br> Desenvolvedor Backend <br> "Pedreiro" e "Arquiteto" de software. 📚</strong>
-  Visite meu Linkedin -> <a href="https://www.linkedin/in/douglasgmachado">Clique<>
+  Visite meu Linkedin -> <a href="https://www.linkedin.com/in/douglasgmachado">Clique<>
   <br><br>
  
   <hr>
@@ -21,10 +21,10 @@
 <div>
   <img height = "50px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain.svg"/>
   <img height = "50px" src="https://blog.viettelcybersecurity.com/content/images/2022/03/OG-Spring.png" />
-  <img  height = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height = "60px "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /
-  <img  height = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img  height ="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img  height = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
   <img  height = "50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
