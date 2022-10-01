@@ -8,7 +8,7 @@
 
   <hr>
   
-  <strong>💻 Graduando em Ciências da Computação <br> Desenvolvedor Backend <br> "Pedreiro" e "Arquiteto" de software. 📚</strong>
+  <strong>💻 Graduando em Ciências da Computação <br> Desenvolvedor Backend 📚</strong>
   Visite meu Linkedin -> <a href="https://www.linkedin.com/in/douglasgmachado"> Clique </a>
  
   <hr>
