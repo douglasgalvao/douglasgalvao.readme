@@ -1,19 +1,13 @@
 
 
 <br><br>
-<img align="right" height="300em" src="https://user-images.githubusercontent.com/100642061/173202394-11f05595-21af-4cfe-95c7-d76fb1ebbd03.gif">
 
-
-  <img height = "100px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
-
-  <hr>
   
   <strong>💻 Graduando em Ciências da Computação <br> Desenvolvedor Backend 📚</strong>
   Visite meu Linkedin -> <a href="https://www.linkedin.com/in/douglasgmachado"> Clique </a>
  
   <hr>
   
-  <img height = "100px" src = "https://user-images.githubusercontent.com/92947069/183309444-40054815-7603-4409-b613-603095a0e7d2.gif" >
   
 ### Programming Languages
 <div>
