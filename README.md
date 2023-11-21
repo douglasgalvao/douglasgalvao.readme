@@ -5,7 +5,7 @@
   
   <p> 💻 Graduando em Engenharia de Software e pioneiro de Ciência da Computação 📚 </p> <br> 
 <strong> Desenvolvedor Full Stack Web </strong>
-<a href="https://www.linkedin.com/in/douglasgmachado"> Visite meu Linkedin </a>
+Visite meu <a href="https://www.linkedin.com/in/douglasgmachado"> Linkedin </a>
   <hr>
   
   Estudo para arquitetar as melhores soluções para meus problemas encontrados com o tempo.
