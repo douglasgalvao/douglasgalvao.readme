@@ -3,7 +3,7 @@
 <br><br>
 
   
-  <p> 💻 Graduando em Engenharia de Software e pioneiro de Ciência da Computação 📚 </p> <br> 
+  <p> 💻 Graduando em Engenharia de Software e pioneiro da Computação 📚 </p> <br> 
 <strong> Desenvolvedor Full Stack Web </strong>
 Visite meu <a href="https://www.linkedin.com/in/douglasgmachado"> Linkedin </a>
   <hr>
