@@ -4,8 +4,7 @@
 
   
   <p> 💻 Graduando em Engenharia de Software e pioneiro da Computação 📚 </p> <br> 
-<strong> Desenvolvedor Full Stack Web </strong>
-Visite meu <a href="https://www.linkedin.com/in/douglasgmachado"> Linkedin </a>
+<strong> Solucionista </strong>
   <hr>
   
   Estudo para arquitetar as melhores soluções para meus problemas encontrados com o tempo.
