@@ -4,9 +4,8 @@
 
   
   <p> 💻 Graduando em Engenharia de Software e pioneiro da Computação 📚 </p> <br> 
-<strong> Solucionista </strong>
+<strong> Desenvolvedor de Projetos e Fã Da Tecnologia em sí </strong>
   <hr>
-  
   Estudo para arquitetar as melhores soluções para meus problemas encontrados com o tempo.
   
 ### Programming Languages
