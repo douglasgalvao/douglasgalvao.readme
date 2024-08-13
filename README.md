@@ -7,6 +7,8 @@
 <strong> Desenvolvedor de Projetos e Fã Da Tecnologia em sí </strong>
   <hr>
   - Estudo para arquitetar as melhores soluções para meus problemas encontrados com o tempo.
+
+
   - Toda tecnologia é válida se resolve meus problemas 
   
 ### Programming Languages
