@@ -9,7 +9,8 @@
   - Estudo para arquitetar as melhores soluções para meus problemas encontrados com o tempo.
 
 
-  - Toda tecnologia é válida se resolve meus problemas 
+  - Toda tecnologia é válida se resolve meus problemas
+  - Uma boa prática é sempre bem vinda!
   
 ### Programming Languages
 <div>
