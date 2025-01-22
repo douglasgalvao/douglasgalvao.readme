@@ -3,8 +3,8 @@
 <br><br>
 
   
+  <strong> Desenvolvedor de Projetos e Fã Da Tecnologia em sí </strong>
   <p> 💻 Graduando em Engenharia de Software e pioneiro da Computação 📚 </p> <br> 
-<strong> Desenvolvedor de Projetos e Fã Da Tecnologia em sí </strong>
   <hr>
   - Estudo para arquitetar as melhores soluções para meus problemas encontrados com o tempo.
 
