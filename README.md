@@ -21,6 +21,7 @@
  
 ### DataBases & ORM's
 <div>
+ <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
@@ -29,12 +30,12 @@
 ### Tools & Frameworks
 
 <div>
+  <img src="https://img.shields.io/badge/VUE.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/LARAVEL-EF4135?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/VUE.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/LARAVEL-EF4135?style=for-the-badge&logo=laravel&logoColor=white">
-
+  
   </div>
   
 ### Operational Systems
@@ -42,6 +43,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   </div>
+
+### Messaging Queue
+<img src="https://img.shields.io/badge/RABBITMQ-61D0D5?style=for-the-badge&logo=rabbitmq&logoColor=white">
+
+### Virtualization
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   
 ### Workflow Platforms
 <div>
